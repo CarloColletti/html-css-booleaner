@@ -61,8 +61,13 @@
 /* impostazioni per la table  */
 table{
     text-align: left;
+    border-collapse: collapse;
 }
 thead{
     background-color: #20a9e5;
     color: white;
+}
+
+.coloreceleste{
+    background-color: #b1e5f2;
 }
