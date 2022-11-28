@@ -19,4 +19,8 @@
 .margine{
     margin: 4px;
 }
+/* sottolineato */
 
+.testo-evidenziato{
+    background-color: yellow;
+}
