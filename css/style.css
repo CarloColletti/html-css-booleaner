@@ -62,10 +62,12 @@
 table{
     text-align: left;
     border-collapse: collapse;
+    display: block;
 }
 thead{
     background-color: #20a9e5;
     color: white;
+    height: 5px;
 }
 
 .coloreceleste{
