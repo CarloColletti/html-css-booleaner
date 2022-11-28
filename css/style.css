@@ -29,3 +29,16 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+/* spazio per le foto  */
+.foto1{
+    color: white;
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+}
+.foto2 {
+    color: white;
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+}
