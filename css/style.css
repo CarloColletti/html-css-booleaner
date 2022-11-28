@@ -25,6 +25,12 @@
     background-color: yellow;
 }
 
+.testogrigio{
+    color: grey;
+}
+.testoblu{
+    color: #35b0e6;
+}
 .padding{
     padding-top: 10px;
     padding-bottom: 10px;
@@ -44,5 +50,6 @@
 
 .testofoto{
     color: white;
-    font-size: 16px;
+    font-size: 32px;
+    font: bolder;
 }
