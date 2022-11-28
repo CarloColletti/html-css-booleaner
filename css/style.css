@@ -1,13 +1,10 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
 
-}
 /* contenitore per il pattern  */
 .contenitore{
     height: 180px;
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
+    margin: 0;
 }
 
 /* impostazione logo  */
