@@ -8,6 +8,10 @@
     background-image: url(../img/pattern.png);
 
 }
+/* grandezza del titolo */
+.titolo{
+    font-size: 42px;
+}
 
 /* impostazione logo  */
 .logo{
